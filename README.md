@@ -10,10 +10,11 @@ Deploying of a container with a running bitcoind node
 
 ## BALENA INSTALL
 
-> git checkout git@github.com:bricke/balena-bitcoin-node.git
-> cd balena-bitcoin-node
-> balena login
-> balena push <address>
-
+```
+ git checkout git@github.com:bricke/balena-bitcoin-node.git
+ cd balena-bitcoin-node
+ balena login
+ balena push <address>
+```
 
 *TO DO*
